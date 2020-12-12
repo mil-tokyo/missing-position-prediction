@@ -90,3 +90,9 @@ If you find this repository helpful for your work, please consider citing the re
 > Yusuke Mori, Hiroaki Yamane, Yusuke Mukuta, and Tatsuya Harada. 2020. Finding  and  Generating a Missing Part for Story Completion. In Proceedings of the The 4th Joint SIGHUM Workshop on Computational Linguistics for Cultural Heritage, SocialSciences, Humanities and Literature, pages 156–166, Online, December. International Committee on Computational Linguistics.
 
 Please visit the ACL Anthology to get [Bibtex file](https://www.aclweb.org/anthology/2020.latechclfl-1.19.bib).
+
+## Contact
+
+If you have any inquiries (find something strange in this repository, etc.), please feel free to open an issue in this repository or send email to Yusuke Mori (corresponding author).
+
+E-mail address: mori at mi.t.u-tokyo.ac.jp
